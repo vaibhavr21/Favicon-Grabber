@@ -35,3 +35,10 @@
     width: 1px;
 
 }
+.icon{
+  block-size: 1em;
+  display: inline-block;
+  fill: var(--iconFill);
+  inline-size: 1em;
+  vertical-align: middle;
+}
