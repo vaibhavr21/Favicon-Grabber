@@ -55,3 +55,12 @@
   --bodyLineHeight: 1.5;
 
 }
+
+*{
+  box-sizing: inherit;
+}
+
+html{
+  box-sizing: border-box;
+  font-size: var(--htmlFontSize);
+}
