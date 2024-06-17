@@ -160,3 +160,7 @@ input[type="submit"]{
 input[type="submit"]:focus,input[type="submit"]:hover{
   background-color: #d75821;
 }
+p{
+  margin-block:1.5rem;
+  text-align: center;
+}
